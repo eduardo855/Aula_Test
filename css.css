@@ -1,0 +1,39 @@
+body {
+	font-size: 2em;
+	text-align: center;
+	font-family: helvetica;
+	width: 950;
+	background-image: url(image5.png);
+	background-attachment: fixed;
+	background-position: center center;
+	background-size: auto;
+	
+
+}
+h1{
+	color:white;
+	font-size: 40px;
+}
+footer{
+		color:green;
+}
+
+h2{
+	font-size: 50px;
+	color:red;
+
+}
+footer h1{
+		color: green;
+}
+
+button {
+	font-size:30px;
+	color: red;
+
+}
+
+button onclick{
+	color:white;
+}
+
